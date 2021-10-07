@@ -1427,29 +1427,29 @@
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 30px 93px;
+  padding: 30px 16px;
 }
 
 .u-section-4 .u-line-1 {
-  width: 437px;
+  width: 483px;
   height: 3px;
-  transform-origin: left center 0px;
-  margin: 107px 0 0 auto;
+  transform-origin: right center 0px;
+  margin: 107px auto 0 58px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 20px 0 0 27px;
+  margin: 20px 77px 0 58px;
 }
 
 .u-section-4 .u-line-2 {
-  width: 437px;
+  width: 483px;
   height: 9px;
-  transform-origin: left center 0px;
-  margin: 30px 0 0 auto;
+  transform-origin: right center 0px;
+  margin: 30px auto 0 58px;
 }
 
 .u-section-4 .u-text-2 {
-  margin: 39px 27px 0;
+  margin: 38px 104px 0 77px;
 }
 
 .u-section-4 .u-image-1 {
@@ -1482,26 +1482,25 @@
   }
 
   .u-section-4 .u-line-1 {
-    transform-origin: right center 0px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-4 .u-text-1 {
-    margin-left: 0;
+    margin-left: 8px;
+    margin-right: 27px;
   }
 
   .u-section-4 .u-line-2 {
-    transform-origin: right center 0px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-4 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 27px;
+    margin-right: 54px;
   }
 
   .u-section-4 .u-image-1 {
@@ -1519,8 +1518,18 @@
   }
 
   .u-section-4 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-4 .u-image-1 {
@@ -1537,6 +1546,11 @@
 @media (max-width: 767px) {
   .u-section-4 {
     min-height: 237px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .u-section-4 .u-image-1 {
@@ -1713,6 +1727,10 @@
 
   .u-section-5 .u-text-4 {
     margin-top: 0;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-top: 20px;
   }
 
   .u-section-5 .u-layout-cell-2 {
